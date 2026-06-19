@@ -1,12 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://xfactorfilters.com/about.html</loc>
+    <lastmod>2026-06-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xfactorfilters.com/best-for-beginners-xfactorfilters-2026.html</loc>
+    <lastmod>2026-06-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xfactorfilters.com/buying-guide-xfactorfilters-2026.html</loc>
+    <lastmod>2026-06-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xfactorfilters.com/comparison-xfactorfilters-2026.html</loc>
+    <lastmod>2026-06-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xfactorfilters.com/contact.html</loc>
+    <lastmod>2026-06-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xfactorfilters.com/how-to-clean-xfactorfilters-2026.html</loc>
+    <lastmod>2026-06-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://xfactorfilters.com/</loc>
-    <lastmod>2026-06-09</lastmod>
+    <lastmod>2026-06-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
-  <url><loc>https://xfactorfilters.com/truth-about-xfactorfilters-2026.html</loc><lastmod>2026-06-13</lastmod></url>
-  <url><loc>https://xfactorfilters.com/xfactorfilters-compared-2026.html</loc><lastmod>2026-06-16</lastmod></url>
-  <url><loc>https://xfactorfilters.com/smart-xfactorfilters-shopping-2026.html</loc><lastmod>2026-06-19</lastmod></url>
+  <url>
+    <loc>https://xfactorfilters.com/no-bs-xfactorfilters-guide-2026.html</loc>
+    <lastmod>2026-06-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xfactorfilters.com/privacy.html</loc>
+    <lastmod>2026-06-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xfactorfilters.com/smart-xfactorfilters-shopping-2026.html</loc>
+    <lastmod>2026-06-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xfactorfilters.com/truth-about-xfactorfilters-2026.html</loc>
+    <lastmod>2026-06-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xfactorfilters.com/xfactorfilters-compared-2026.html</loc>
+    <lastmod>2026-06-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
